@@ -68,6 +68,16 @@ Pretest: 380 mm (15 in) Hg\nPost-test: vacuum equal to or greater than the maxim
 Click on refresh button on the left to update barometer value.
 Use 'STACK' thermocouple socket for adjustment. 'STACK', 'PROBE' and 'OVEN' share the same adjustment.
 Use 'FILTER' thermocouple socket for adjustment. 'FILTER' and 'EXIT' share the same adjustment.
+Unable to check for updates. 
+Please check your network connection.\n\nDo you want to retry?
+This application is corrupted. Please reinstall.
+The application will now close.
+This application has detected a mandatory update from your current version to version
+The application will now install the update and restart.
+The application has been updated, and will now restart.
+An update is available. Would you like to update the application now?
+Cannot install the latest version of the application. \n\nPlease check your network connection and try again later.
+The application is up to date.
 Sensor
 Current\nReading
 Reference Reading
