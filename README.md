@@ -5,6 +5,9 @@ To update MREK UI installation folder
 1. Publish the application with installation folder URL as follows:  
 https://raw.githubusercontent.com/kcloke/MREK-UI-setup/gh-pages/Installer/
 
+![image](https://github.com/kcloke/MREK-UI-setup/assets/68266580/ad4a23ba-5468-45eb-bd09-ec533bd53aa0)
+
+
 2. Go to https://github.com/kcloke/MREK-UI-setup/tree/gh-pages/Installer.
 
 3. Click on Add file, then, Upload files.
@@ -23,3 +26,13 @@ Direct link:
 Note: If users can download the setup.exe file from any other links, remember to also update the linked files with the latest version.
 	
 ----------------------------------------------------------------------------------------------------
+
+How to select installation folder URL if location of setup file on GitHub has changed?
+
+Use the following format: 
+
+https://raw.githubusercontent.com/{your-account-name}/{your-repo-name}/{branch}/Installer/
+
+----------------------------------------------------------------------------------------------------
+
+
