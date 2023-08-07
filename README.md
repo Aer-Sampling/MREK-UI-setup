@@ -31,11 +31,13 @@ Note: If users can download the setup.exe file from any other links, remember to
 	
 ----------------------------------------------------------------------------------------------------
 
-How to select installation folder URL if location of setup file on GitHub has changed?
+How to select installation folder URL for GitHub?
 
 Use the following format: 
 
 https://raw.githubusercontent.com/{your-account-name}/{your-repo-name}/{branch}/Installer/
+
+Note: For some reason, https://raw.githubusercontent.com/kcloke/MREK-UI-setup/gh-pages/Installer/ can still be used even though the ownership has been transferred to Aer Sampling (Organization). It should have been https://raw.githubusercontent.com/Aer-Sampling/MREK-UI-setup/gh-pages/Installer/ instead. The old link is probably directed to the new link.
 
 ----------------------------------------------------------------------------------------------------
 
