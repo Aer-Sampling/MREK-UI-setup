@@ -1,5 +1,9 @@
 # MREK-UI-setup
 
+### Important! This repository must be made public to enable update process to work properly.
+
+----------------------------------------------------------------------------------------------------
+
 To update MREK UI installation folder
 
 1. Publish the application with installation folder URL as follows:  
